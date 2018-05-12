@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39735'
     url: http://www.gutenberg.org/2009/agents/39735
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38959#Comparative-Ecology-of-Pinyon-Mice-and-Deer-Mice-in-Mesa-Verde-National-Park-Colorado
 gutenberg_bookshelf:
 - Animals-Wild-Mammals
 - Animal
