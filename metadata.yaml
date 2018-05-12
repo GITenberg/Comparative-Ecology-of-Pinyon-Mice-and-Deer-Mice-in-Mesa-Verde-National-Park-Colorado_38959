@@ -1,0 +1,32 @@
+_repo: Comparative-Ecology-of-Pinyon-Mice-and-Deer-Mice-in-Mesa-Verde-National-Park-Colorado_38959
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38959-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Douglas, Charles L.
+    gutenberg_agent_id: '39735'
+    url: http://www.gutenberg.org/2009/agents/39735
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2012-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38959'
+  lccn: '76629151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peromyscus maniculatus'
+- !lcsh 'Mammals -- Behavior'
+- !lcsh 'Piñon mouse'
+- !lcc 'QH'
+- !lcsh 'Mammals -- Colorado -- Mesa Verde National Park'
+title: Comparative Ecology of Pinyon Mice and Deer Mice in Mesa Verde National Park,
+  Colorado
+url: http://www.gutenberg.org/ebooks/38959
